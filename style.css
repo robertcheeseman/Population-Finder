@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background: grey;
+  background: rgb(23, 61, 189);
   background-image: url(/images/city-background.jpg);
   background-size: cover;
   background-repeat: no-repeat;
